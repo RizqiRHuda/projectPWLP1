@@ -24,6 +24,7 @@
        
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
             <h1>Rizqi Rohmatul Huda</h1>
+            <h2>2G - TI</h2>
         </div>
     </body>
 </html>
